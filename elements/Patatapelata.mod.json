@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "patatapelata",
+    "customModelName": "Normal",
+    "name": "Patatapelata",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "er patatone pelatone misticoso"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 180,
+    "saturation": 20.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

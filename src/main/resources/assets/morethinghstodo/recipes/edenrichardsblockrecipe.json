@@ -1,0 +1,42 @@
+{
+  "group": "morethinghstodo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethinghstodo:dignitapura"
+    },
+    "1": {
+      "item": "morethinghstodo:dignitapura"
+    },
+    "2": {
+      "item": "morethinghstodo:dignitapura"
+    },
+    "3": {
+      "item": "morethinghstodo:dignitapura"
+    },
+    "4": {
+      "item": "morethinghstodo:dignitapura"
+    },
+    "5": {
+      "item": "morethinghstodo:dignitapura"
+    },
+    "6": {
+      "item": "morethinghstodo:dignitapura"
+    },
+    "7": {
+      "item": "morethinghstodo:dignitapura"
+    },
+    "8": {
+      "item": "morethinghstodo:dignitapura"
+    }
+  },
+  "result": {
+    "item": "morethinghstodo:edenrichardsblock",
+    "count": 1
+  }
+}

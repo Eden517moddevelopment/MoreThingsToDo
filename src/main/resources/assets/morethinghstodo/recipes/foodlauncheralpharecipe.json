@@ -1,0 +1,39 @@
+{
+  "group": "morethinghstodo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6  "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:redstone"
+    },
+    "5": {
+      "item": "minecraft:gunpowder"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "morethinghstodo:foodlauncher_alpha",
+    "count": 1
+  }
+}

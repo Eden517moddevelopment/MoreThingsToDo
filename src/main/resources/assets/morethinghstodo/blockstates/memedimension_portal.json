@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "morethinghstodo:memedimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "morethinghstodo:memedimension_portal_ns"
+    },
+    "inventory": {
+      "model": "morethinghstodo:memedimension_portal_ns"
+    }
+  }
+}

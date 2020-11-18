@@ -1,0 +1,42 @@
+{
+  "group": "morethinghstodo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethinghstodo:ultracraftingtable"
+    },
+    "1": {
+      "item": "morethinghstodo:ultracraftingtable"
+    },
+    "2": {
+      "item": "morethinghstodo:ultracraftingtable"
+    },
+    "3": {
+      "item": "morethinghstodo:ultracraftingtable"
+    },
+    "4": {
+      "item": "morethinghstodo:ultracraftingtable"
+    },
+    "5": {
+      "item": "morethinghstodo:ultracraftingtable"
+    },
+    "6": {
+      "item": "morethinghstodo:ultracraftingtable"
+    },
+    "7": {
+      "item": "morethinghstodo:ultracraftingtable"
+    },
+    "8": {
+      "item": "morethinghstodo:ultracraftingtable"
+    }
+  },
+  "result": {
+    "item": "morethinghstodo:gigacraftingable",
+    "count": 1
+  }
+}

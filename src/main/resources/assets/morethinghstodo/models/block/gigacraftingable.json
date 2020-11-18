@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethinghstodo:blocks/gigacraftingtabletexture",
+    "up": "morethinghstodo:blocks/gigacraftingtabletexture",
+    "north": "morethinghstodo:blocks/gigacraftingtabletexture",
+    "east": "morethinghstodo:blocks/gigacraftingtabletexture",
+    "south": "morethinghstodo:blocks/gigacraftingtabletexture",
+    "west": "morethinghstodo:blocks/gigacraftingtabletexture",
+    "particle": "morethinghstodo:blocks/gigacraftingtabletexture"
+  }
+}

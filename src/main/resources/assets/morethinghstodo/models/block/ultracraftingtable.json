@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethinghstodo:blocks/communism",
+    "up": "morethinghstodo:blocks/communism",
+    "north": "morethinghstodo:blocks/communism",
+    "east": "morethinghstodo:blocks/communism",
+    "south": "morethinghstodo:blocks/communism",
+    "west": "morethinghstodo:blocks/communism",
+    "particle": "morethinghstodo:blocks/communism"
+  }
+}

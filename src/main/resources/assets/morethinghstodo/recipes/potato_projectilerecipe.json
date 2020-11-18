@@ -1,0 +1,16 @@
+{
+  "group": "morethinghstodo",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:baked_potato"
+    }
+  },
+  "result": {
+    "item": "morethinghstodo:potatoprojectile",
+    "count": 10
+  }
+}

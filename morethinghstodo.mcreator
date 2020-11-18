@@ -1,0 +1,280 @@
+{
+  "id_map": {
+    "DIMENSION": 1,
+    "ENTITY": 1,
+    "GUI": 1
+  },
+  "mod_elements": [
+    {
+      "name": "Potatoprojectile",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potatoprojectile"
+    },
+    {
+      "name": "FoodlauncherAlpha",
+      "type": "gun",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      },
+      "registry_name": "foodlauncher_alpha"
+    },
+    {
+      "name": "PotatoProjectilerecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potato_projectilerecipe"
+    },
+    {
+      "name": "Foodlauncheralpharecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foodlauncheralpharecipe"
+    },
+    {
+      "name": "CianuroFoodEaten",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cianuro_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CianuroItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cianuro_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cianuro",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cianuro"
+    },
+    {
+      "name": "Cianurorecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cianurorecipe"
+    },
+    {
+      "name": "Dignita",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dignita"
+    },
+    {
+      "name": "Edenrichardsblock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "edenrichardsblock"
+    },
+    {
+      "name": "Memedimension",
+      "type": "dimension",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      },
+      "registry_name": "memedimension"
+    },
+    {
+      "name": "Dignitapura",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dignitapura"
+    },
+    {
+      "name": "Dignitapurarecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dignitapurarecipe"
+    },
+    {
+      "name": "Cianurosmeltingrecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cianurosmeltingrecipe"
+    },
+    {
+      "name": "Edenrichardsblockrecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "edenrichardsblockrecipe"
+    },
+    {
+      "name": "Pelapatate",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pelapatate"
+    },
+    {
+      "name": "Patatapelata",
+      "type": "food",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "patatapelata"
+    },
+    {
+      "name": "Patatapelatarecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "patatapelatarecipe"
+    },
+    {
+      "name": "Megacraftingtable",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "megacraftingtable"
+    },
+    {
+      "name": "Ppr",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ppr"
+    },
+    {
+      "name": "Ultracraftingtable",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultracraftingtable"
+    },
+    {
+      "name": "Ultracraftingtablerecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultracraftingtablerecipe"
+    },
+    {
+      "name": "Gigacraftingable",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gigacraftingable"
+    },
+    {
+      "name": "Gigacraftingtablerecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gigacraftingtablerecipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.pelapatate.name": "Pelapatate",
+      "item.potatoprojectile.name": "Potatoprojectile",
+      "tile.megacraftingtable.name": "Megacraftingtable",
+      "tile.ultracraftingtable.name": "Ultracraftingtable",
+      "item.foodlauncher_alpha.name": "Foodlauncher Alpha",
+      "item.dignita.name": "Dignita",
+      "item.patatapelata.name": "Patatapelata",
+      "tile.edenrichardsblock.name": "Edenrichardsblock",
+      "tile.gigacraftingable.name": "Gigacraftingable",
+      "item.dignitapura.name": "Dignitapura",
+      "item.cianuro.name": "Cianuro",
+      "item.memedimension.name": "Memedimension Portal Igniter"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "morethinghstodo",
+    "modName": "MoreThinghsToDo",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.morethinghstodo",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000546519
+}

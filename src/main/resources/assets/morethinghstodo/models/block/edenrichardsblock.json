@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethinghstodo:blocks/edenrichardsblocktexturebottom",
+    "up": "morethinghstodo:blocks/edenrichardsblocktexturetop",
+    "north": "morethinghstodo:blocks/edenrichardsblockfronttexture",
+    "east": "morethinghstodo:blocks/edenrichardsblocktextures",
+    "south": "morethinghstodo:blocks/edenrichardsblocktextures",
+    "west": "morethinghstodo:blocks/edenrichardsblocktextures",
+    "particle": "morethinghstodo:blocks/edenrichardsblocktexturebottom"
+  }
+}
